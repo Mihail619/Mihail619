@@ -18,7 +18,7 @@
 | Рекомендательная система| Цель создать веб сервис, который для id пользователя выдает список рекомендованных статей. Рекомендадтельная система основанная на истории взаимодействия пользователей со статьями. Для всех статей из базы данных определяется верояность того, что пользователь лайкнет их. Из всех статей выбирается N заданное количествой, которые будут рекомендованы пользователю. | Python (pandas, numpy, scikitlearn, catboost, Fast API,),  Pytorch (roberta-base). |
 
 #### Навыки
-Python, Pandas, NumPy, Pytorch, Scikit-learn, FastAPI, Optuna, PostgreSQL, SQLAlchemy, Git, , AirFlow.
+Python, Pandas, NumPy, Pytorch, Scikit-learn, FastAPI, Optuna, PostgreSQL, SQLAlchemy, Git, , AirFlow, XGBoost, LightGBM.
 
   
 
